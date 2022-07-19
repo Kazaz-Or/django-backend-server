@@ -13,8 +13,8 @@
 <h4>19 API Endpoints:</h4>
 <p>- Creating users (registration)</p>
 <p>- Managing Login & User Authentication (Using Token authentication)</p>
-<p>- Managing Recipes (POST, GET, PATH, PUT, DELETE)</p>
-<p>- Managing recipe tags (POST, GET, PATH, PUT, DELETE)</p>
+<p>- Managing Recipes (POST, GET, PATCH, PUT, DELETE)</p>
+<p>- Managing recipe tags (POST, GET, PATCH, PUT, DELETE)</p>
 <p>- Managing recipe ingredients (POST, GET, PATCH, PUT, DELETE)</p>
 <p>- Uploading (POST) recipe images via API endpoint</p>
 <p>- Filtering (GET) according to the list of endpoints (user, tags, ingredients)</p>
